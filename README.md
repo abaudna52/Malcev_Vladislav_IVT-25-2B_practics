@@ -7,4 +7,4 @@
 Вставка изображения:
 ![img](https://cdn1.ozone.ru/s3/multimedia-j/6630304447.jpg)"Женя"
 Вставка кода:
-```dfgdfgghgfbgfhgfjgfgf```
+```python print('hello Женя')```
