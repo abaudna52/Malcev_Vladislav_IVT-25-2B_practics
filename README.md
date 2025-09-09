@@ -7,6 +7,7 @@
 Вставка изображения:
 ![img](https://cdn1.ozone.ru/s3/multimedia-j/6630304447.jpg)"Женя"
 Вставка кода:
-```с
- print('hello Женя')```
+```python
+ print('hello Женя')
+```
 Вставка таблиц
