@@ -6,4 +6,4 @@
 2. [Рисовать блоксхемы тут](https://www.drawio.com/ "Текст")
 
 Вставка изображения:
-![img](
+![img](https://cdn1.ozone.ru/s3/multimedia-j/6630304447.jpg)"Женя"
