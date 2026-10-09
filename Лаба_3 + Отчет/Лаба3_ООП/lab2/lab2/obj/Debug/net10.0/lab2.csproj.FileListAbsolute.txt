@@ -1,0 +1,14 @@
+C:\Users\WWW\Desktop\ООП\Лаба2_ООП\lab2\lab2\bin\Debug\net10.0\lab2.exe
+C:\Users\WWW\Desktop\ООП\Лаба2_ООП\lab2\lab2\bin\Debug\net10.0\lab2.deps.json
+C:\Users\WWW\Desktop\ООП\Лаба2_ООП\lab2\lab2\bin\Debug\net10.0\lab2.runtimeconfig.json
+C:\Users\WWW\Desktop\ООП\Лаба2_ООП\lab2\lab2\bin\Debug\net10.0\lab2.dll
+C:\Users\WWW\Desktop\ООП\Лаба2_ООП\lab2\lab2\bin\Debug\net10.0\lab2.pdb
+C:\Users\WWW\Desktop\ООП\Лаба2_ООП\lab2\lab2\obj\Debug\net10.0\lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WWW\Desktop\ООП\Лаба2_ООП\lab2\lab2\obj\Debug\net10.0\lab2.AssemblyInfoInputs.cache
+C:\Users\WWW\Desktop\ООП\Лаба2_ООП\lab2\lab2\obj\Debug\net10.0\lab2.AssemblyInfo.cs
+C:\Users\WWW\Desktop\ООП\Лаба2_ООП\lab2\lab2\obj\Debug\net10.0\lab2.csproj.CoreCompileInputs.cache
+C:\Users\WWW\Desktop\ООП\Лаба2_ООП\lab2\lab2\obj\Debug\net10.0\lab2.dll
+C:\Users\WWW\Desktop\ООП\Лаба2_ООП\lab2\lab2\obj\Debug\net10.0\refint\lab2.dll
+C:\Users\WWW\Desktop\ООП\Лаба2_ООП\lab2\lab2\obj\Debug\net10.0\lab2.pdb
+C:\Users\WWW\Desktop\ООП\Лаба2_ООП\lab2\lab2\obj\Debug\net10.0\lab2.genruntimeconfig.cache
+C:\Users\WWW\Desktop\ООП\Лаба2_ООП\lab2\lab2\obj\Debug\net10.0\ref\lab2.dll
